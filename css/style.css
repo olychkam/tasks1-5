@@ -1,0 +1,29 @@
+.red{
+    color: red;
+}
+.iframeTwo {
+    width: 800px;
+    height: 200px;
+    border: none;
+
+}
+.form {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.form_changeLocal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.rezult-response{
+    width: 20%;
+    border: 1px solid black;
+    font-size: 16px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
